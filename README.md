@@ -1,4 +1,4 @@
-# GIT E GITHUB
+## GIT E GITHUB
 
 ### Git é um sistema de controle de versão de arquivos. É um software livre e muito utilizado no desenvolvimento de software onde diversas pessoas estão contribuindo simultaneamente, podendo criar e editar arquivos.
 
